@@ -30,7 +30,7 @@ Maze Dungeon (메이즈 던전)
 Stack Furniture (가구쌓기)
 - 하이퍼 캐주얼 3D 모바일 게임
 - Unity를 사용해 제작한 첫 모바일 프로젝트
-- 제작기간 약 1년
+- 제작기간 약 1주일
 - 구글 플레이스토어에 출시
 - 구글 플레이 스토어 :  https://play.google.com/store/apps/details?id=com.TeroGames.StackFurniture
 - 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
