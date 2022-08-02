@@ -25,7 +25,7 @@ Maze Dungeon (메이즈 던전)
 - 제작기간 약 1년
 - 스팀에 얼리억세스로 출시
 - 스팀 :  https://store.steampowered.com/app/1904030/_/?beta=0
-- 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
+- 자세히보기 : https://drive.google.com/file/d/1vT-Ztm2jQ2LD9CGQmgYZeD0zCyK-uO3P/view?usp=sharing
 
 Stack Furniture (가구쌓기)
 - 하이퍼 캐주얼 3D 모바일 게임
