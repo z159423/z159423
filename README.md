@@ -23,16 +23,40 @@ Maze Dungeon (메이즈 던전)
 - 로그라이크 RPG 3D 인디게임
 - Unity를 사용해 제작한 첫 프로젝트
 - 제작기간 약 1년
+- 기획, 클라이언트, 디자인 (1인개발)
 - 스팀에 얼리억세스로 출시
 - 스팀 :  https://store.steampowered.com/app/1904030/_/?beta=0
 - 자세히보기 : https://drive.google.com/file/d/1vT-Ztm2jQ2LD9CGQmgYZeD0zCyK-uO3P/view?usp=sharing
 
 Stack Furniture (가구쌓기)
-- 하이퍼 캐주얼 3D 모바일 게임
+- 캐주얼 퍼즐 3D 모바일 게임
 - Unity를 사용해 제작한 첫 모바일 프로젝트
 - 제작기간 약 1주일
+- 기획, 클라이언트, 디자인 (1인개발)
 - 구글 플레이스토어에 출시
 - 구글 플레이 스토어 :  https://play.google.com/store/apps/details?id=com.TeroGames.StackFurniture
+- 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
+
+Rapid Fishing
+- 하이퍼 캐주얼 낚시 3D 모바일 게임
+- 먼데이오프에 입사하여 처음으로 참여한 프로젝트
+- 제작기간 약 2개월
+- 게임 클라이언트 개발 (2인개발)
+- 구글 플레이스토어, 앱스토어에 출시
+- 구글 플레이 스토어 :  https://play.google.com/store/apps/details?id=com.TeroGames.StackFurniture
+- 앱스토어 : https://apps.apple.com/us/app/rapid-fishing/id1641421211
+- 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
+
+Brick Break Run!
+- 런게임과 벽돌깨기 장르를 결합한 하이퍼 캐주얼 모바일 게임
+- 제작기간 약 1개월
+- 게임 클라이언트 개발 (2인개발)
+- 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
+
+Space Survivor
+- 런게임과 벽돌깨기 장르를 결합한 하이퍼 캐주얼 모바일 게임
+- 제작기간 약 4개월
+- 기획, 클라이언트, 디자인 (1인개발)
 - 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z159423)](https://github.com/z159423/github-readme-stats)
