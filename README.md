@@ -28,6 +28,7 @@
 - 스팀에 얼리억세스로 출시
 - 스팀 :  https://store.steampowered.com/app/1904030/_/?beta=0
 - 자세히보기 : https://drive.google.com/file/d/1vT-Ztm2jQ2LD9CGQmgYZeD0zCyK-uO3P/view?usp=sharing
+- github : https://github.com/z159423/MazeDungeon
 
 #### Stack Furniture (가구쌓기)
 - 캐주얼 퍼즐 3D 모바일 게임
@@ -38,6 +39,7 @@
 - 구글 플레이스토어에 출시
 - 구글 플레이 스토어 :  https://play.google.com/store/apps/details?id=com.TeroGames.StackFurniture
 - 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
+- github : https://github.com/z159423/StackFurniture
 
 #### Rapid Fishing
 - 하이퍼 캐주얼 낚시 3D 모바일 게임
@@ -49,6 +51,7 @@
 - 구글 플레이 스토어 :  https://play.google.com/store/apps/details?id=com.TeroGames.StackFurniture
 - 앱스토어 : https://apps.apple.com/us/app/rapid-fishing/id1641421211
 - 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
+- github : https://github.com/z159423/Rapid_Fishing
 
 #### Brick Break Run!
 - 런게임과 벽돌깨기 장르를 결합한 하이퍼 캐주얼 모바일 게임
@@ -56,6 +59,7 @@
 - 제작기간 약 1개월
 - 게임 클라이언트 개발 (2인개발)
 - 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
+- github : https://github.com/z159423/Rapid_Fishing
 
 #### Space Survivor
 - 런게임과 벽돌깨기 장르를 결합한 하이퍼 캐주얼 모바일 게임
@@ -63,6 +67,7 @@
 - 제작기간 약 4개월
 - 기획, 클라이언트, 디자인 (1인개발)
 - 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
+- github : https://github.com/z159423/Space-Survivor
 
 
 
