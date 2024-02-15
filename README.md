@@ -26,6 +26,7 @@
 - 제작기간 약 1년
 - 기획, 클라이언트, 디자인 (1인개발)
 - 스팀에 얼리억세스로 출시
+- [<img src="https://img.shields.io/badge/-Steam-black?style=for-the-badge" />](https://store.steampowered.com/app/1904030/_/?beta=0) [<img src="https://img.shields.io/badge/-자세히 보기-blue?style=for-the-badge" />](https://drive.google.com/file/d/1vT-Ztm2jQ2LD9CGQmgYZeD0zCyK-uO3P/view?usp=sharing) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/MazeDungeon)
 - 스팀 :  https://store.steampowered.com/app/1904030/_/?beta=0
 - 자세히보기 : https://drive.google.com/file/d/1vT-Ztm2jQ2LD9CGQmgYZeD0zCyK-uO3P/view?usp=sharing
 - github : https://github.com/z159423/MazeDungeon
@@ -36,10 +37,7 @@
 - 사용 기술 : ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 - 제작기간 약 12개월
 - 기획, 클라이언트, 디자인 (1인개발)
-- 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
 - [<img src="https://img.shields.io/badge/-자세히 보기-blue?style=for-the-badge" />](https://drive.google.com/file/d/1xkpvTn-0SyAVkoLF6kooApEUDWffySA6/view?usp=sharing) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/Space-Survivor)
-- 
-- github : https://github.com/z159423/Space-Survivor
 
 
 #### Stack Furniture (가구쌓기)
