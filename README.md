@@ -17,7 +17,7 @@
    
    
 
-## Main Projects
+## Solo Projects
 
 #### Maze Dungeon (메이즈 던전)
 - 로그라이크 RPG 3D 인디게임
