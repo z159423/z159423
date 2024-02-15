@@ -30,6 +30,7 @@
 - 자세히보기 : https://drive.google.com/file/d/1vT-Ztm2jQ2LD9CGQmgYZeD0zCyK-uO3P/view?usp=sharing
 - github : https://github.com/z159423/MazeDungeon
 
+
 - #### Space Survivor
 - 서바이벌 장르의 로그라이크 모바일 게임
 - 사용 기술 : ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -37,7 +38,7 @@
 - 기획, 클라이언트, 디자인 (1인개발)
 - 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
 - github : https://github.com/z159423/Space-Survivor
-- 
+
 
 #### Stack Furniture (가구쌓기)
 - 캐주얼 퍼즐 3D 모바일 게임
