@@ -37,8 +37,7 @@
 - 제작기간 약 12개월
 - 기획, 클라이언트, 디자인 (1인개발)
 - 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
-- [<img src="https://img.shields.io/badge/-자세히 보기-blue?style=for-the-badge" />](https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing)
-- [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/Space-Survivor)
+- [<img src="https://img.shields.io/badge/-자세히 보기-blue?style=for-the-badge" />](https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/Space-Survivor)
 - 
 - github : https://github.com/z159423/Space-Survivor
 
