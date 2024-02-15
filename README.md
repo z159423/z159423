@@ -31,7 +31,7 @@
 - github : https://github.com/z159423/MazeDungeon
 
 
-- #### Space Survivor
+#### Space Survivor
 - 서바이벌 장르의 로그라이크 모바일 게임
 - 사용 기술 : ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 - 제작기간 약 12개월
