@@ -5,7 +5,7 @@
 ```
 안녕하세요 유니티 개발자를 꿈꾸는 방승환 입니다.
 유니티를 활용해 여러 프로젝트를 진행하고 있습니다.
-주로 유니티와 C#을 이용해 개발하지만 HTML, Java, Css, Javascripts 등등을 사용해본 경험도 있습니다.
+주로 유니티와 C#을 이용해 개발하고 있습니다.
 ```
 ## Skills
 #### 자주 사용하는 : ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
