@@ -46,7 +46,9 @@
 - 구글 플레이스토어에 출시
 - [<img src="https://img.shields.io/badge/-구글플레이-black?style=for-the-badge" />](https://play.google.com/store/apps/details?id=com.TeroGames.StackFurniture) [<img src="https://img.shields.io/badge/-자세히 보기-blue?style=for-the-badge" />](https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/StackFurniture)
 
-<!--
+
+## MondayOff (2022-07 ~)
+
 #### Rapid Fishing
 - 하이퍼 캐주얼 낚시 3D 모바일 게임
 - 사용 기술 : ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -66,7 +68,7 @@
 - 게임 클라이언트 개발 (2인개발)
 - 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
 - github : https://github.com/z159423/Rapid_Fishing
--->
+
 
 
 
@@ -74,14 +76,14 @@
 
 
 ## Side Projects
-
+<!--
 #### 워시존 고객관리 앱
 - 아르바이트 하던때에 사장님의 부탁으로 제작한 고객관리 어플
 - 사용 기술 : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - 제작기간 약 3개월
 - 기획, 클라이언트, 디자인 (1인개발)
 - github : [https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing](https://github.com/z159423/washzoneProject)
-
+-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z159423)](https://github.com/z159423/github-readme-stats)-->
 
