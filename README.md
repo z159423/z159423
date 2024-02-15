@@ -45,9 +45,6 @@
 - 기획, 클라이언트, 디자인 (1인개발)
 - 구글 플레이스토어에 출시
 - [<img src="https://img.shields.io/badge/-구글플레이-black?style=for-the-badge" />](https://play.google.com/store/apps/details?id=com.TeroGames.StackFurniture) [<img src="https://img.shields.io/badge/-자세히 보기-blue?style=for-the-badge" />](https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/StackFurniture)
-- 구글 플레이 스토어 :  https://play.google.com/store/apps/details?id=com.TeroGames.StackFurniture
-- 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
-- github : https://github.com/z159423/StackFurniture
 
 <!--
 #### Rapid Fishing
