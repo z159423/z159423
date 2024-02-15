@@ -57,6 +57,30 @@
 - 구글 플레이스토어, 앱스토어에 출시
 - [<img src="https://img.shields.io/badge/-구글플레이-black?style=for-the-badge" />](https://play.google.com/store/apps/details?id=com.mondayoff.islandsurvival) [<img src="https://img.shields.io/badge/-앱스토어-black?style=for-the-badge" />](https://apps.apple.com/us/app/rapid-fishing/id1641421211) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/TheIsland)
 
+#### Save The Sheep
+- 하이퍼 캐주얼 퍼즐 게임
+- 사용 기술 : ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+- 제작기간 약 2개월
+- 게임 클라이언트 개발 (2인개발)
+- 구글 플레이스토어, 앱스토어에 출시
+- [<img src="https://img.shields.io/badge/-구글플레이-black?style=for-the-badge" />](https://play.google.com/store/apps/details?id=com.mondayoff.savethesheep) [<img src="https://img.shields.io/badge/-앱스토어-black?style=for-the-badge" />](https://apps.apple.com/us/app/save-the-sheep-3d/id6444689599) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/SaveTheSheep)
+
+#### Candy Shop Master
+- 하이퍼캐주얼 런게임
+- 사용 기술 : ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+- 제작기간 약 2개월
+- 게임 클라이언트 개발 (2인개발)
+- 구글 플레이스토어, 앱스토어에 출시
+- [<img src="https://img.shields.io/badge/-구글플레이-black?style=for-the-badge" />](https://play.google.com/store/apps/details?id=com.mondayoff.candyshopmaster) [<img src="https://img.shields.io/badge/-앱스토어-black?style=for-the-badge" />](https://apps.apple.com/us/app/candy-shop-master/id6458976521) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/CandyShopMaster)
+
+#### Clock Crusher
+- 하이퍼캐주얼 클리커 게임
+- 사용 기술 : ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+- 제작기간 약 2개월
+- 게임 클라이언트 개발 (2인개발)
+- 구글 플레이스토어, 앱스토어에 출시
+- [<img src="https://img.shields.io/badge/-구글플레이-black?style=for-the-badge" />](https://play.google.com/store/apps/details?id=com.mondayoff.clockcrusher) [<img src="https://img.shields.io/badge/-앱스토어-black?style=for-the-badge" />](https://apps.apple.com/us/app/clock-crusher/id6475017674) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/ClockCrusher)
+
 #### Rapid Fishing
 - 하이퍼 캐주얼 낚시 3D 모바일 게임
 - 사용 기술 : ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -69,7 +93,7 @@
 #### Brick Break Run!
 - 런게임과 벽돌깨기 장르를 결합한 하이퍼 캐주얼 모바일 게임
 - 사용 기술 : ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-- 제작기간 약 1개월
+- 제작기간 약 2개월
 - 게임 클라이언트 개발 (2인개발)
 - 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
 - github : https://github.com/z159423/Rapid_Fishing
