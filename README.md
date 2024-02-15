@@ -27,9 +27,6 @@
 - 기획, 클라이언트, 디자인 (1인개발)
 - 스팀에 얼리억세스로 출시
 - [<img src="https://img.shields.io/badge/-Steam-black?style=for-the-badge" />](https://store.steampowered.com/app/1904030/_/?beta=0) [<img src="https://img.shields.io/badge/-자세히 보기-blue?style=for-the-badge" />](https://drive.google.com/file/d/1vT-Ztm2jQ2LD9CGQmgYZeD0zCyK-uO3P/view?usp=sharing) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/MazeDungeon)
-- 스팀 :  https://store.steampowered.com/app/1904030/_/?beta=0
-- 자세히보기 : https://drive.google.com/file/d/1vT-Ztm2jQ2LD9CGQmgYZeD0zCyK-uO3P/view?usp=sharing
-- github : https://github.com/z159423/MazeDungeon
 
 
 #### Space Survivor
@@ -47,6 +44,7 @@
 - 제작기간 약 1주일
 - 기획, 클라이언트, 디자인 (1인개발)
 - 구글 플레이스토어에 출시
+- [<img src="https://img.shields.io/badge/-구글플레이-black?style=for-the-badge" />](https://play.google.com/store/apps/details?id=com.TeroGames.StackFurniture) [<img src="https://img.shields.io/badge/-자세히 보기-blue?style=for-the-badge" />](https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/StackFurniture)
 - 구글 플레이 스토어 :  https://play.google.com/store/apps/details?id=com.TeroGames.StackFurniture
 - 자세히보기 : https://drive.google.com/file/d/1USl1IFsBvdp9RYTxNcqki6s4u6xkplin/view?usp=sharing
 - github : https://github.com/z159423/StackFurniture
