@@ -55,7 +55,7 @@
 - 제작기간 약 6개월
 - 게임 클라이언트 개발 (3인개발)
 - 구글 플레이스토어, 앱스토어에 출시
-- [<img src="https://img.shields.io/badge/-구글플레이-black?style=for-the-badge" />](https://play.google.com/store/apps/details?id=com.mondayoff.islandsurvival) [<img src="https://img.shields.io/badge/-앱스토어-black?style=for-the-badge" />](https://apps.apple.com/us/app/rapid-fishing/id1641421211) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/TheIsland)
+- [<img src="https://img.shields.io/badge/-구글플레이-black?style=for-the-badge" />](https://play.google.com/store/apps/details?id=com.mondayoff.islandsurvival) [<img src="https://img.shields.io/badge/-앱스토어-black?style=for-the-badge" />](https://apps.apple.com/us/app/the-island-survival-crafting/id1673193276) [<img src="https://img.shields.io/badge/-github-orange?style=for-the-badge" />](https://github.com/z159423/TheIsland)
 
 #### Save The Sheep
 - 하이퍼 캐주얼 퍼즐 게임
